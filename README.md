@@ -1,16 +1,14 @@
-### Hi there 👋
+teracy55
 
-<!--
-**teracy55/teracy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Links
 
-Here are some ideas to get you started:
+* [Qiita @teracy55](https://qiita.com/teracy55)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+　　　
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/teracy55/posts.svg)](http://qiita.com/teracy55)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/teracy55/contributions.svg)](http://qiita.com/teracy55)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/teracy55/followers.svg)](http://qiita.com/teracy55)
+
+
+* [Twitter @teracy55](https://twitter.com/teracy55)
+
